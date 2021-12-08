@@ -3,3 +3,4 @@
 - Maitua
 - Leipä
 - Sallaattia
+- Karkkia
