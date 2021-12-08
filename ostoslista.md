@@ -4,3 +4,4 @@
 - Leipä
 - Sallaattia
 - Karkkia
+- Makkaraa
