@@ -7,3 +7,4 @@
 - Makkaraa
 - Voita
 - Viili
+- Vessapaperi
