@@ -2,3 +2,4 @@
 - Perunoita
 - Maitua
 - Leipä
+- Sallaattia
