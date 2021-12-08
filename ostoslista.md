@@ -9,3 +9,4 @@
 - Viili
 - Vessapaperi
 - Juusoa
+- Kinku
