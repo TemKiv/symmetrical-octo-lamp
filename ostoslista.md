@@ -10,3 +10,4 @@
 - Vessapaperi
 - Juusoa
 - Kinku
+- Hammasharja
